@@ -6,6 +6,8 @@
   + [FAQ](https://gitlab.kitware.com/cmake/community/-/wikis/FAQ)
 + [GitHub Mirror｜CMake](https://github.com/Kitware/CMake)
 
++ [Installation of CMake](https://www.linuxfromscratch.org/blfs/view/svn/general/cmake.html)
+
 ## Pre-installation Actions on CentOS
 
 ```shell
