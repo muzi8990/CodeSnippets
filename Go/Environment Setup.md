@@ -9,6 +9,9 @@
 
 + [Go install](https://go.dev/doc/install)
 
+
++ [Optional environment variables](https://golang.google.cn/doc/install/source#environment)
+
 # Go 模块代理
 
 + [七牛云 - Goproxy.cn](https://goproxy.cn/)
