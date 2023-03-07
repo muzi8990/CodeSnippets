@@ -9,6 +9,7 @@
 
 + [Go install](https://go.dev/doc/install)
 
+## [Documentation](https://go.dev/doc/)
 
 + [Optional environment variables](https://golang.google.cn/doc/install/source#environment)
 
