@@ -11,6 +11,8 @@
 
 ## [Documentation](https://go.dev/doc/)
 
++ [Frequently Asked Questions](https://go.dev/doc/faq)
+
 + [Optional environment variables](https://golang.google.cn/doc/install/source#environment)
 
 # Go 模块代理
