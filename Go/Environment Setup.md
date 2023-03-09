@@ -13,6 +13,8 @@
 
 ## [Documentation](https://go.dev/doc/)
 
++ [How to Write Go Code](https://go.dev/doc/code)
+
 + [Frequently Asked Questions](https://go.dev/doc/faq)
 
 + [Optional environment variables](https://golang.google.cn/doc/install/source#environment)
