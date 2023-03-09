@@ -14,6 +14,7 @@
 ## [Documentation](https://go.dev/doc/)
 
 + [How to Write Go Code](https://go.dev/doc/code)
++ [Effective Go](https://go.dev/doc/effective_go)
 
 + [Frequently Asked Questions](https://go.dev/doc/faq)
 
