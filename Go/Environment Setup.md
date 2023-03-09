@@ -9,13 +9,15 @@
 
 + [Go install](https://go.dev/doc/install)
 
-+ [The Go Programming Language Specification](https://go.dev/ref/spec)
+
 
 ## [Documentation](https://go.dev/doc/)
 
 + [Frequently Asked Questions](https://go.dev/doc/faq)
 
 + [Optional environment variables](https://golang.google.cn/doc/install/source#environment)
+
++ [The Go Programming Language Specification](https://go.dev/ref/spec)
 
 ## [The Go Blog](https://go.dev/blog/)
 
