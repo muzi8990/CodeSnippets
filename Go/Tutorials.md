@@ -1,5 +1,9 @@
 # Tutorials
 
++ [a tour of Go](https://go.dev/tour/list)
+
+---
+
 + [Go Variables](https://dotnetpattern.com/golang-variables)
 
 + [Convert between byte array/slice and string](https://yourbasic.org/golang/convert-string-to-byte-slice/)
