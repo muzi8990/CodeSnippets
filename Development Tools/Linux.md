@@ -9,6 +9,13 @@
 + [Developer Toolset 8](https://www.softwarecollections.org/en/scls/rhscl/devtoolset-8/)
   + [CentOS 7升级gcc版本](https://www.cnblogs.com/jixiaohua/p/11732225.html)
 
+## [systemd](https://github.com/systemd/systemd)
+
++ [systemd.index 中文手册](http://www.jinbuguo.com/systemd/systemd.index.html)
+    + [systemd.unit 中文手册](http://www.jinbuguo.com/systemd/systemd.unit.html)
+    + [systemd.service 中文手册](http://www.jinbuguo.com/systemd/systemd.service.html)
+    + [systemd.socket 中文手册](http://www.jinbuguo.com/systemd/systemd.socket.html)
+
 
 # 镜像
 
