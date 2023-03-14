@@ -9,6 +9,10 @@
 
 + [Go install](https://go.dev/doc/install)
 
+```shell
+brew install go
+```
+
 
 
 ## [Documentation](https://go.dev/doc/)
