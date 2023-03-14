@@ -21,3 +21,7 @@
 # Commands
 
 + [9 Useful Commands to Get CPU Information on Linux](https://www.tecmint.com/check-linux-cpu-information/)
++ [How to switch between multiple GCC and G++ compiler versions on Ubuntu 22.04 LTS Jammy Jellyfish](https://linuxconfig.org/how-to-switch-between-multiple-gcc-and-g-compiler-versions-on-ubuntu-22-04-lts-jammy-jellyfish)
++ [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
+  + [How to fix "dial unix /var/run/docker.sock: connect: permission denied" when group permissions seem correct?](https://stackoverflow.com/questions/51342810/how-to-fix-dial-unix-var-run-docker-sock-connect-permission-denied-when-gro)
+    + `sudo setfacl --modify user:<user name or ID>:rw /var/run/docker.sock`
