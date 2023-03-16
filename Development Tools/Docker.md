@@ -81,3 +81,8 @@ docker compose down
 
 + [Nginx](https://hub.docker.com/_/nginx)
 + [PyTorch](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch/tags)
+
+
+# FAQ
+
++ [How to Name or Rename Docker Containers](https://www.tecmint.com/name-docker-containers/)
