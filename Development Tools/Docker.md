@@ -86,3 +86,5 @@ docker compose down
 # FAQ
 
 + [How to Name or Rename Docker Containers](https://www.tecmint.com/name-docker-containers/)
+
++ [Local File logging driver](https://docs.docker.com/config/containers/logging/local/)
