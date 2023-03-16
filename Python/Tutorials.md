@@ -6,3 +6,8 @@
 
 + [nvidia's projects](https://pypi.org/user/nvidia/)
 
+## 镜像
+
++ 百度镜像 `https://mirror.baidu.com/pypi/simple`
++ 清华镜像 `https://pypi.tuna.tsinghua.edu.cn/simple`
+
