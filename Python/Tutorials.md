@@ -4,6 +4,9 @@
 
 # [Python Package Index](https://pypi.org/)
 
++ [Documentation｜pip](https://pip.pypa.io/en/stable/)
+  + [pip config](https://pip.pypa.io/en/stable/cli/pip_config/)
+
 + [nvidia's projects](https://pypi.org/user/nvidia/)
 
 ## 镜像
