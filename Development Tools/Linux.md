@@ -1,6 +1,7 @@
 # Linux
 
 + [Beyond Linux® From Scratch (System V Edition)](https://www.linuxfromscratch.org/blfs/view/svn/index.html)
++ [Linux学习教程，Linux入门教程（超详细）](http://c.biancheng.net/linux_tutorial/)
 
 ---
 
