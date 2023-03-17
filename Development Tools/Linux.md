@@ -33,3 +33,5 @@
 + [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
   + [How to fix "dial unix /var/run/docker.sock: connect: permission denied" when group permissions seem correct?](https://stackoverflow.com/questions/51342810/how-to-fix-dial-unix-var-run-docker-sock-connect-permission-denied-when-gro)
     + `sudo setfacl --modify user:<user name or ID>:rw /var/run/docker.sock`
+
++ [AlmaLinux / Rocky Linux 8 open HTTP/HTTPS port 80/443 with firewalld](http://linux.how2shout.com/almalinux-rocky-linux-8-open-http-https-port-80-443-with-firewalld/)
