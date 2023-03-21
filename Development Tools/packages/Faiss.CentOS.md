@@ -44,6 +44,8 @@ sudo install -v -m755 -d /usr/share/doc/swig-4.1.1 &&
 sudo cp -v -R Doc/* /usr/share/doc/swig-4.1.1
 ```
 
+## oneAPI
+
 ```shell
 tee > /tmp/oneAPI.repo << EOF
 [oneAPI]
@@ -59,6 +61,8 @@ sudo mv /tmp/oneAPI.repo /etc/yum.repos.d
 sudo yum update
 sudo yum install intel-basekit
 ```
+
+## Faiss
 
 ```shell
 
