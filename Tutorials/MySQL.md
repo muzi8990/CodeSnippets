@@ -1,8 +1,8 @@
 # MySQL
 
-## [Data Types](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
+## [Data Types](https://dev.mysql.com/doc/refman/en/data-types.html)
 
-+ [The `CHAR` and `VARCHAR` Types](https://dev.mysql.com/doc/refman/8.0/en/char.html)
++ [The `CHAR` and `VARCHAR` Types](https://dev.mysql.com/doc/refman/en/char.html)
 
 ## time
 
