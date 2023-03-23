@@ -9,6 +9,7 @@
 
 ## [Column INSERT/UPDATE Defaults](https://docs.sqlalchemy.org/en/20/core/defaults.html)
 + [Marking Implicitly Generated Values, timestamps, and Triggered Columns](https://docs.sqlalchemy.org/en/20/core/defaults.html#marking-implicitly-generated-values-timestamps-and-triggered-columns)
++ [SQLAlchemy default DateTime](https://stackoverflow.com/questions/13370317/sqlalchemy-default-datetime)
 
 ```python
 from sqlalchemy import Column, DateTime
