@@ -1,5 +1,9 @@
 # MySQL
 
+## [Data Types](https://dev.mysql.com/doc/refman/8.0/en/data-types.html)
+
++ [The `CHAR` and `VARCHAR` Types](https://dev.mysql.com/doc/refman/8.0/en/char.html)
+
 ## time
 
 + [Automatic Initialization and Updating for TIMESTAMP and DATETIME](https://dev.mysql.com/doc/refman/8.0/en/timestamp-initialization.html)
