@@ -1,6 +1,7 @@
 # Tutorials
 
 + [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
++ [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html)
 
 # [Python Package Index](https://pypi.org/)
 
