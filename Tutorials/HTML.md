@@ -7,6 +7,7 @@
 + [Bootstrap Versions｜W3Schools](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 ---
 + [HTML](https://www.quackit.com/html/)
++ [HTML Tutorial｜JavaTpoint](https://www.javatpoint.com/html-tutorial)
 + [Learn HTML](https://www.w3docs.com/learn-html.html)
 + [HTML 系列教程](https://www.w3school.com.cn/h.asp)
 ---
