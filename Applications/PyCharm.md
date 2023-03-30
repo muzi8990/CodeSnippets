@@ -6,7 +6,7 @@
 ## Plugins
 
 - [pydantic](https://pydantic-docs.helpmanual.io/pycharm_plugin/)
-- [Getting Started with Sourcery for PyCharm](https://docs.sourcery.ai/Guides/Getting-Started/PyCharm/)
+<!-- - [Getting Started with Sourcery for PyCharm](https://docs.sourcery.ai/Guides/Getting-Started/PyCharm/) -->
 
 ## 配置PowerShell终端
 
