@@ -2,6 +2,7 @@
 
 + [HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
 + [HTML（超文本标记语言）｜MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
++ [Web APIs｜MDN](https://developer.mozilla.org/en-US/docs/Web/API)
 ---
 + [HTML Tutorial｜W3Schools](https://www.w3schools.com/html/default.asp)
 + [CSS Tutorial｜W3Schools](https://www.w3schools.com/css/default.asp)
