@@ -11,4 +11,4 @@
 
 ## [Docker Compose](https://docs.docker.com/compose/)
 
-## [Installation](https://docs.docker.com/compose/install/)
+### [Installation](https://docs.docker.com/compose/install/)
