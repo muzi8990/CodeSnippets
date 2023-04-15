@@ -20,3 +20,7 @@
 ---
 
 + [html.parser](https://docs.python.org/3/library/html.parser.html#module-html.parser) — Simple HTML and XHTML parser
+
+---
+
++ [在浏览器中调试](https://zh.javascript.info/debugging-chrome)
